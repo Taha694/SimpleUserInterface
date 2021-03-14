@@ -1,0 +1,169 @@
+#img{
+    margin-left: 400px;
+}
+#home{
+    background-color: rgb(13, 35, 102);
+    color: white;
+    margin-left: 400px;
+    }
+#div{
+    background-color: white;
+    
+}
+#nav{
+    color: white;
+}
+#abo:hover{
+    background-color: rgb(13, 35, 102);
+    color: white;
+}
+#about{
+    padding-left:2px;
+
+}
+#ser:hover{
+    background-color: rgb(13, 35, 102);
+    color: white;
+}
+#yel{
+    background-color: rgb(255, 187, 0);
+    height: 680px;
+    width: auto;
+    
+}
+.con{
+   
+
+padding-left: 240px;
+   
+}
+#pa{
+    font-size:20px ;
+    font-weight:600;
+    padding-left: 240px;
+}
+#pi{
+    padding-left: 1200px;
+}
+#servi{
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(13, 35, 102)
+}
+#lor{
+    text-align: center;
+    font-size: smaller;
+}
+#lorem{
+    width: 1100px;
+   
+    margin-left: 400px;
+    justify-content: center;
+    margin-top: 30px;
+}
+#icon1{
+    margin-left: 400px;
+
+}
+#s1{
+    border: 1px solid darkgoldenrod;
+    width: 260px;
+    height: 250px;
+   
+    margin-left: 400px;
+    text-align: center;
+    display: inline-block;
+
+    
+   
+    
+}
+#s2{
+    border: 1px solid darkgoldenrod;
+    width: 260px;
+    height: 250px;
+   
+    margin-left: 7px;
+    text-align: center;
+    display: inline-block;
+   
+    
+}
+#it{
+    padding-top: 20px;
+    font-weight: bold;
+    color:rgb(13, 35, 102) ;
+}
+#it1{
+    font-size: smaller;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#b1{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid ;
+    color: white;
+    background-color:rgb(13, 35, 102) ;
+}
+#b1:hover{
+    background-color:rgb(255, 187, 0);
+    color: rgb(13, 35, 102) ;
+    border: 0px;
+
+}
+#icon4{
+    margin-left: 14px;
+}
+#card{
+    background-color:rgb(13, 35, 102) ;
+    width: auto;
+    height: 400px;
+}
+#check{
+    padding-left: 400px;
+    padding-top: 40px;
+}
+#j{
+    display: inline;
+    width: 2px;
+    color: white;
+    font-size: small;
+    padding-left: 20px;
+}
+#o{
+    margin-left: 400px;
+    margin-top: 20px;
+
+}
+#p{
+    background-color:rgb(13, 35, 102 );
+    width: auto;
+    height: 400px;
+}
+#u1{
+    color: rgb(255, 187, 0);
+    margin-left: 400px;
+    padding-top: 70px;
+    
+    width: 250px;
+    font-size: 14;
+    display: inline-block;
+}
+#u2{
+    color: rgb(255, 187, 0);
+    margin-left: 4px;
+    padding-top: 70px;
+   
+    width: 250px;
+    font-size: 14;
+    display: inline-block;
+}
+#l{
+    color: white;
+    font-size: small;
+    margin-left: 400px;
+    padding-top: 30px;
+}
